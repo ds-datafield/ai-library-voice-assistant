@@ -1,7 +1,8 @@
-# AI Voice Assistant (LiveKit Playground)
+# AI Voice Assistant 
 
 ## 🚀 Overview
 This project is the **first iteration (MVP)** of an AI voice assistant built using **LiveKit**. It enables real-time voice interactions by integrating **speech-to-text (STT), text-to-speech (TTS), and an LLM (Llama3)**. The assistant is designed for **concise and natural conversations**.
+This project is an MVP using [LiveKit Playground](https://agents-playground.livekit.io/) to host the AI voice assistant. Future iterations might include self made frontend. 
 
 🔹 **Current Features:**
 - 🗣️ **Real-time speech recognition** (Deepgram STT)  
