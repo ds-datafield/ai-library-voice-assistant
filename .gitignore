@@ -3,3 +3,4 @@
 __pycache__/
 library_db.sqlite
 populate_book_db.py
+db_testing.py
