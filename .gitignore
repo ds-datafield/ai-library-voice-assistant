@@ -1,1 +1,5 @@
 .env
+*.pyc
+__pycache__/
+library_db.sqlite
+populate_book_db.py
