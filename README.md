@@ -15,17 +15,17 @@ Watch the demo of the AI Library Voice Assistant:
 ## Goal
 The primary aim of this project is to explore and experiment with modern tools and technologies in the AI and voice communication space, rather than to create a fully fleshed-out production-ready application. Specifically, this project serves as a learning platform to:
 
-    Investigate LiveKit Toolkits: Understand and utilize LiveKit's real-time communication capabilities for voice interactions.
+-Investigate LiveKit Toolkits: Understand and utilize LiveKit's real-time communication capabilities for voice interactions.
 
-    Interact with Existing AI APIs: Gain hands-on experience with APIs like Cartesia (Text-to-Speech), Deepgram (Speech-to-Text), and Groq (LLM for natural language processing).
+-Interact with Existing AI APIs: Gain hands-on experience with APIs like Cartesia (Text-to-Speech), Deepgram (Speech-to-Text), and Groq (LLM for natural language processing).
 
-    Create a Custom API: Develop a simple API to handle library-related tasks, such as book lookups, reservations, and recommendations.
+-Create a Custom API: Develop a simple API to handle library-related tasks, such as book lookups, reservations, and recommendations.
 
-    Use Large Language Models (LLMs): Experiment with advanced language models like Groq's LLaMA 3 to generate intelligent and context-aware responses.
+-Use Large Language Models (LLMs): Experiment with advanced language models like Groq's LLaMA 3 to generate intelligent and context-aware responses.
 
-    Build a Small Database: Design and implement a lightweight SQLite database to manage library data.
+-Build a Small Database: Design and implement a lightweight SQLite database to manage library data.
 
-    Leverage Free Credits: Utilize free credits provided by the tools (e.g., LiveKit, Deepgram, Cartesia, Groq) to build and test the project without incurring costs.
+-Leverage Free Credits: Utilize free credits provided by the tools (e.g., LiveKit, Deepgram, Cartesia, Groq) to build and test the project without incurring costs.
 
 By focusing on these goals, the project provides a practical way to explore cutting-edge technologies while keeping the scope manageable and cost-effective.
 
