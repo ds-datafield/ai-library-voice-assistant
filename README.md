@@ -10,7 +10,7 @@ This project is built using **Python**, **SQLite** for **database management**, 
 ## **Project Demo**
 Watch the demo of the **AI Library Voice Assistant**:
 
-[Demo Video Link]
+[Demo Video](https://www.linkedin.com/posts/davis-se-ly-2b6a3417a_first-look-at-my-ai-powered-library-voice-activity-7304908712069001216-Bl6u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqC56oBnexbXb9s-w71Pzn4axDQUekmZ6g)
 
 ## **Goal**
 The primary aim of this project is to explore and experiment with **modern tools** and **technologies** in the **AI** and **voice communication** space, rather than to create a fully fleshed-out **production-ready application**. Specifically, this project serves as a **learning platform** to:
@@ -95,7 +95,7 @@ Run the agent:
 
 
 ## Acknowledgments
-- This project was inspired by the TechWithTim YouTube channel. Special thanks to Tim for his insightful tutorials, which provided the foundation for this project. While this implementation is adapted to my specific use case (an AI Library Voice Assistant), the core concepts and tools were learned from his content. Tech With Tim YouTube Channel: https://www.youtube.com/watch?v=DNWLIAK4BUY
+- This project was inspired by the TechWithTim YouTube channel. Special thanks to Tim for his insightful tutorials, which provided the foundation for this project. While this implementation is adapted to my specific use case (an AI Library Voice Assistant), the core concepts and tools were learned from his content. [Link for the tutorial](https://www.youtube.com/watch?v=DNWLIAK4BUY)
 - Thanks to LiveKit for providing real-time communication tools.
 - Thanks to Groq for their powerful language models.
 - Thanks to Deepgram and Cartesia for their speech-to-text and text-to-speech technologies.
